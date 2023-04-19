@@ -1,0 +1,14 @@
+img {
+    float: left;
+}
+.about {
+    text-align: right;
+}
+pre {
+    font-size: 80px;
+}
+button {
+    color: rgb(255, 77, 0);
+    height: 80px;
+    width: 220px;
+}
